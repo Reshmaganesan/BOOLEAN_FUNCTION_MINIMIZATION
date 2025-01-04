@@ -1,4 +1,8 @@
-# BOOLEAN_FUNCTION_MINIMIZATION
+NAME:RESHMA.G
+
+REF NO:24003213
+
+EXPERIMENT 2:BOOLEAN_FUNCTION_MINIMIZATION
 
 **AIM:**
 
@@ -32,19 +36,23 @@ Hardware – PCs, Cyclone II , USB flasher
 
 
 **Program:**
+![Screenshot 2024-11-21 111418](https://github.com/user-attachments/assets/a77eb7b1-7601-4d55-bf9e-9c12082366eb)
 
-/* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
-
-Developed by: RegisterNumber:*/
 
 
 **RTL realization**
+![Screenshot 2024-11-21 111347](https://github.com/user-attachments/assets/f21fc5b7-97fb-493d-81a6-1d3738823148)
+
 
 **Output:**
+![Screenshot 2024-11-21 113930](https://github.com/user-attachments/assets/0b79afb8-1b82-4141-a6eb-d01a7600d307)
+
 
 **RTL**
 
 **Timing Diagram**
+![Screenshot 2024-11-21 113100](https://github.com/user-attachments/assets/c2083472-5053-4dfe-b808-ae9ef7099758)
+
 
 **Result:**
 
